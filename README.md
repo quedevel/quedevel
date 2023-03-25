@@ -1,4 +1,4 @@
-## Hi there👋 I'm quedevel.
+## Hi there👋
 
 <img src="https://raw.githubusercontent.com/quedevel/quedevel/master/profile-summary-card-output/solarized/0-profile-details.svg">
 
